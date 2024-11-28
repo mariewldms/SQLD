@@ -79,7 +79,9 @@ https://cafe.naver.com/sqlpd
 ### 2. 최신 SQLD 기출 모음  
 </br>
 
-### 3. SQL 실습을 위한 프로그래머스 문제, DB 자료 모음 
+### 3. SQL 실습을 위한 DB 자료
+- MySQL
+- Oracle
 </br>
 
 ### 4. 자주 틀리는 개념 정리
