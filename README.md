@@ -76,7 +76,7 @@ https://cafe.naver.com/sqlpd
 
 </br>
 
-### 2. 최신 SQLD 기출 모음  
+### 2. 2023 정오표 
 </br>
 
 ### 3. SQL 실습을 위한 DB 자료
@@ -84,6 +84,6 @@ https://cafe.naver.com/sqlpd
 - Oracle
 </br>
 
-### 4. 자주 틀리는 개념 정리
+### 4. springboot 엔터티 구성 예제
 </br>
 
