@@ -1,0 +1,4 @@
+SELECT Y.사원ID 
+FROM (SELECT 사원ID,MAX(연봉) OVER (PARTITION BY 부서ID) AS 최고연봉 FROM 사원) X, 사원 Y
+WHERE X.사원ID=Y.사원ID
+AND X.최고연봉=Y.연봉
